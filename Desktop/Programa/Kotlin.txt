@@ -1,2 +1,2 @@
-UserName: Oscarike
-Correo: Oscareha101@gmail.com
+Username: Oscarike
+Email: Oscareha101@gmail.com
